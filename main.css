@@ -17,7 +17,7 @@ h1 {
     background-image: url(Images/sky.jpg);
     background-size: cover;
     position: relative;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .road {
     background-image: url(Images/road.jpg);
